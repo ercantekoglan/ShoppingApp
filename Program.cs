@@ -30,7 +30,7 @@ namespace ShoppingApp
             while (exit != 101)
             {
 
-                ///Console.ReadKey().Key != ConsoleKey.Escape
+                
 
                 ProductList(isFirstTime);
                 isFirstTime = false;
